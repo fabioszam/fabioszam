@@ -37,7 +37,7 @@ I'm currently studying to be a front-end web developer.
   </picture>
 </div>
 
-#### Contacts
+#### Contacts 
 
 <div dir="auto">
   <a target="_blank" href="https://www.linkedin.com/in/fabio-s-54949096/">
