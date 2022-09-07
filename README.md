@@ -1,4 +1,4 @@
-### Hello everyone, Fábio here! 👋 
+<h2>Hello everyone, Fábio here! 👋</h2>
 
 I'm currently studying to be a front-end web developer.
 
@@ -31,6 +31,22 @@ I'm currently studying to be a front-end web developer.
   </picture>
 </div>
 
+#### Contacts
+
+<div dir="auto">
+  <a target="_blank" href="https://www.linkedin.com/in/fabio-s-54949096/">
+    <img
+      src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
+      style="max-width: 100%"
+    />
+  </a>
+  <a target="_blank" href="mailto:fabio.szam@gmail.com">
+    <img
+      src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"
+      style="max-width: 100%"
+    />
+  </a>
+</div>
 
 <!--
 Here are some ideas to get you started:
