@@ -1,4 +1,4 @@
-<h2>Hello everyone, Fábio here! 👋</h2>
+<h2>Hello everyone! 👋</h2>
 
 I'm currently studying to be a front-end developer.
 
