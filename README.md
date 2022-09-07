@@ -1,6 +1,6 @@
 <h2>Hello everyone, Fábio here! 👋</h2>
 
-I'm currently studying to be a front-end web developer.
+I'm currently studying to be a front-end developer.
 
 #### My Stacks
 
