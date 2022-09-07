@@ -29,6 +29,12 @@ I'm currently studying to be a front-end web developer.
       style="max-width: 100%"
     />
   </picture>
+  <picture>
+    <img
+      src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"
+      style="max-width: 100%"
+    />
+  </picture>
 </div>
 
 #### Contacts
